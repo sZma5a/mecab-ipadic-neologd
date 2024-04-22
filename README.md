@@ -295,3 +295,6 @@ Copyright (c) 2015-2019 Toshinori Sato (@overlast) All rights reserved.
 We select the 'Apache License, Version 2.0'. Please check following link.
 
 - https://github.com/neologd/mecab-ipadic-neologd/blob/master/COPYING
+
+## Diff
+Fixed to download data from Google Drive
